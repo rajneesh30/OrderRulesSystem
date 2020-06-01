@@ -1,0 +1,12 @@
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\bin\Debug\netcoreapp2.0\Order.RuleEngine.deps.json
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\bin\Debug\netcoreapp2.0\Order.RuleEngine.dll
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\bin\Debug\netcoreapp2.0\Order.RuleEngine.pdb
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\bin\Debug\netcoreapp2.0\Order.Domain.dll
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.csprojAssemblyReference.cache
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.csproj.CoreCompileInputs.cache
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.AssemblyInfoInputs.cache
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.AssemblyInfo.cs
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.csproj.CopyComplete
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.dll
+D:\OrederProcessing\OrderProcessingSystem\Order.RuleEngine\obj\Debug\netcoreapp2.0\Order.RuleEngine.pdb

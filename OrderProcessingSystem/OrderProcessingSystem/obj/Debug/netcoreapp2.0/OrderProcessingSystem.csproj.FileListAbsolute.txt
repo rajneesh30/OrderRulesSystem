@@ -1,0 +1,17 @@
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\appsettings.json
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\OrderProcessingSystem.deps.json
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\OrderProcessingSystem.runtimeconfig.json
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\OrderProcessingSystem.runtimeconfig.dev.json
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\OrderProcessingSystem.dll
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\OrderProcessingSystem.pdb
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\Order.Domain.dll
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\Order.RuleEngine.dll
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\bin\Debug\netcoreapp2.0\Order.RuleEngine.pdb
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.csprojAssemblyReference.cache
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.csproj.CoreCompileInputs.cache
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.AssemblyInfoInputs.cache
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.AssemblyInfo.cs
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.csproj.CopyComplete
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.dll
+D:\OrederProcessing\OrderProcessingSystem\OrderProcessingSystem\obj\Debug\netcoreapp2.0\OrderProcessingSystem.pdb

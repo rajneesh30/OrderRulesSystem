@@ -1,0 +1,9 @@
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\bin\Debug\netcoreapp2.0\Order.Domain.deps.json
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\bin\Debug\netcoreapp2.0\Order.Domain.dll
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.csprojAssemblyReference.cache
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.AssemblyInfoInputs.cache
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.AssemblyInfo.cs
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.dll
+D:\OrederProcessing\OrderProcessingSystem\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.pdb
