@@ -50,30 +50,42 @@ namespace OrderProcessingSystem.Services
 				throw new Exception("product or category_not_found");
 			}
 			var order = new Order.Domain.Model.Order(name, productDetail.Name, categoryDetail.Name);
-			EvaluateforBusinessRules(order);
+			EvaluateforAllBusinessRules(order);
 			return  _orderRepository.AddAsync(order);
 		}
 
-		private void EvaluateforBusinessRules(Order.Domain.Model.Order order)
+		/// <summary>
+		/// This method check for specific product rule
+		/// </summary>
+		/// <param name="order"></param>
+		private void EvaluateforSpecificBusinessRules(Order.Domain.Model.Order order)
 		{
-			if (order.Category == "Book" || order.Category == "PhysicalProduct")
+			if (order.Category == "Book" || order.Category == "PhysicalProduct" || order.Category == "Membership" || order.Category == "MembershipUpgrade" || order.Category == "VideoProduct")
 			{
 				var rule =
 					RuleHelper.Or(
-					new IRule[2] {  new BookProductRule(), new PhysicalProductRule() });
-				
+					new IRule[5] { new BookProductRule(), new PhysicalProductRule(), new VideoProductRule(), new MembershipProductRule(), new UpgradeMembershipRule() });
+
 				_ruleService.Evaluate(rule, order);
 			}
 
-			if (order.Category == "Membership" || order.Category == "MembershipUpgrade")
+
+		}
+
+		/// <summary>
+		/// This method will check for all available business rules in system.
+		/// </summary>
+		/// <param name="order"></param>
+		private void EvaluateforAllBusinessRules(Order.Domain.Model.Order order)
+		{
+			if (order.Category == "Book" || order.Category == "PhysicalProduct" || order.Category == "Membership" || order.Category == "MembershipUpgrade" || order.Category == "VideoProduct")
 			{
 				var rule =
-					RuleHelper.Or(
-					new IRule[2] { new MembershipProductRule(), new UpgradeMembershipRule() });
-				
+					RuleHelper.And(
+					new IRule[5] { new BookProductRule(), new PhysicalProductRule(), new VideoProductRule(), new MembershipProductRule(), new UpgradeMembershipRule() });
+
 				_ruleService.Evaluate(rule, order);
 			}
-
 		}
 	}
 }
